@@ -1,0 +1,144 @@
+{
+ "lecture": "Vitamins",
+ "pdf": "Vitamins.pdf.pdf",
+ "pages": 34,
+ "model": "baai/bge-m3",
+ "chunks": [
+  {
+   "page": "01",
+   "chars": 187
+  },
+  {
+   "page": "02",
+   "chars": 303
+  },
+  {
+   "page": "03",
+   "chars": 639
+  },
+  {
+   "page": "04",
+   "chars": 1157
+  },
+  {
+   "page": "05",
+   "chars": 679
+  },
+  {
+   "page": "06",
+   "chars": 995
+  },
+  {
+   "page": "07",
+   "chars": 1495
+  },
+  {
+   "page": "08",
+   "chars": 1228
+  },
+  {
+   "page": "09",
+   "chars": 1011
+  },
+  {
+   "page": "10",
+   "chars": 2174
+  },
+  {
+   "page": "11",
+   "chars": 1487
+  },
+  {
+   "page": "12",
+   "chars": 1793
+  },
+  {
+   "page": "13",
+   "chars": 1018
+  },
+  {
+   "page": "14",
+   "chars": 1737
+  },
+  {
+   "page": "15",
+   "chars": 1210
+  },
+  {
+   "page": "16",
+   "chars": 579
+  },
+  {
+   "page": "17",
+   "chars": 1931
+  },
+  {
+   "page": "18",
+   "chars": 1572
+  },
+  {
+   "page": "19",
+   "chars": 1187
+  },
+  {
+   "page": "20",
+   "chars": 752
+  },
+  {
+   "page": "21",
+   "chars": 511
+  },
+  {
+   "page": "22",
+   "chars": 567
+  },
+  {
+   "page": "23",
+   "chars": 1588
+  },
+  {
+   "page": "24",
+   "chars": 1772
+  },
+  {
+   "page": "25",
+   "chars": 628
+  },
+  {
+   "page": "26",
+   "chars": 1418
+  },
+  {
+   "page": "27",
+   "chars": 1314
+  },
+  {
+   "page": "28",
+   "chars": 1344
+  },
+  {
+   "page": "29",
+   "chars": 1241
+  },
+  {
+   "page": "30",
+   "chars": 686
+  },
+  {
+   "page": "31",
+   "chars": 1102
+  },
+  {
+   "page": "32",
+   "chars": 915
+  },
+  {
+   "page": "33",
+   "chars": 919
+  },
+  {
+   "page": "34",
+   "chars": 594
+  }
+ ]
+}

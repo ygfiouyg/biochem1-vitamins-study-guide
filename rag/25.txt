@@ -1,0 +1,21 @@
+Vitamin D: Activation Pathway                                                                                     13
+
+VITAMIN D
+
+
+
+
+            PRECURSORS                                              LIVER                          KIDNEY
+
+
+        Ergosterol → D2
+                                                            25-hydroxylation                    1-hydroxylation
+     7-dehydrocholesterol
+                                                               25-OH-D3                          1,25-(OH)₂-D3
+             → D3
+
+
+
+
+  TAKE-HOME     Active vitamin D is produced by sequential hydroxylation in liver and kidney.
+

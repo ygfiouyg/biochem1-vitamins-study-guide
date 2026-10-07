@@ -1,0 +1,29 @@
+Vitamin A: Retinoids and Vision                                                                                               12
+
+VITAMIN A
+
+
+
+
+      • In dim light, chemical changes that occur by                       Regeneration (In Darkness): 11-cis retinol re-
+      the effect of light (photo-chemical) produce the                     enters the retina, converted to 11-cis retinal,
+      nerve impulses that pass to the optic nerve to                       and rapidly recombines with opsin in the dark
+      the brain. The process works in a continuous 3-                      to rebuild rhodopsin for night vision.
+      step loop:
+
+      Light Exposure (Breakdown): Light hits
+      rhodopsin, breaking it down into opsin and all-
+      trans retinal.
+                                                                         • Vision in Bright Light (Cones & Iodopsin)
+                                                                         Cones contain iodopsin, composed of Vitamin A
+      Resetting Vitamin A: All-trans retinal is
+                                                                         aldehyde (retinal) bound to the protein photopsin.
+      converted to all-trans retinol, which exits the
+                                                                         Iodopsin is necessary for vision in bright light.
+      retina. In the pigment epithelium/bloodstream,
+      an isomerase enzyme converts all-trans retinol
+      back into 11-cis retinol (active form).
+
+
+   TAKE-HOME    Vitamin A is central to visual photochemistry and epithelial integrity.
+

@@ -1,0 +1,2052 @@
+{
+ "slug": "Vitamins",
+ "pages": [
+  {
+   "page": 1,
+   "en": "Biochemistry 1\nLecture 3\nVitamins\n\nDr. Hanan Hafila\nAssoc. Prof. of Biochemistry,\nFaculty of Pharmacy,\nDelta University for Science and Technology",
+   "ar": "دي محاضرة رقم 3 في مادة Biochemistry 1، عنوانها Vitamins. المحاضرة مقدمة من Dr. Hanan Hafila، أستاذ مشارك في Biochemistry بكلية الصيدلة، جامعة Delta University for Science and Technology.",
+   "ex": "تخيل المحاضرة زي غلاف كتاب: مكتوب فيه المادة، رقم المحاضرة، الموضوع، واسم المحاضر.",
+   "q": [
+    {
+     "q": "What is the topic of Lecture 3?",
+     "o": [
+      "Vitamins",
+      "Proteins",
+      "Lipids",
+      "Carbohydrates"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Which course does this lecture belong to?",
+     "o": [
+      "Biochemistry 1",
+      "Organic Chemistry",
+      "Physiology",
+      "Pharmacology"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Who is the lecturer?",
+     "o": [
+      "Dr. Hanan Hafila",
+      "Dr. Smith",
+      "Dr. Ahmed",
+      "Dr. Mona"
+     ],
+     "a": 0
+    },
+    {
+     "q": "What is Dr. Hanan Hafila's academic title?",
+     "o": [
+      "Assoc. Prof. of Biochemistry",
+      "Professor of Pharmacology",
+      "Lecturer of Anatomy",
+      "Assistant Prof. of Microbiology"
+     ],
+     "a": 0
+    },
+    {
+     "q": "At which faculty and university is the lecturer affiliated?",
+     "o": [
+      "Faculty of Pharmacy, Delta University for Science and Technology",
+      "Faculty of Medicine, Cairo University",
+      "Faculty of Science, Alexandria University",
+      "Faculty of Dentistry, Mansoura University"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 2,
+   "en": "BIOCHEMISTRY 1 C\n\nVitamins\nWater-Soluble & Fat-Soluble Vitamins\n\nLetters shown: A, E, D, K, B",
+   "ar": "صفحة عنوان بتقول إن الفيتامينات منهم Water-soluble ومنهم Fat-soluble. وظهرت حروف A, E, D, K, B كرموز/أمثلة للفيتامينات.",
+   "ex": "زي ما تقسم الحلويات لنوعين: نوع يسيح في الماية ونوع يذوب في الدهن؛ كل نوع له تعامل مختلف في الجسم.",
+   "q": [
+    {
+     "q": "According to the page, vitamins are grouped as:",
+     "o": [
+      "Water-soluble and fat-soluble",
+      "Acidic and basic",
+      "Organic and inorganic",
+      "Simple and complex"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Which letters are shown on this page?",
+     "o": [
+      "A, E, D, K, B",
+      "A, B, C, D, E",
+      "C, D, E, F, G",
+      "B1, B2, B3, B5, B6"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Which title appears on the page?",
+     "o": [
+      "Vitamins",
+      "Enzymes",
+      "Hormones",
+      "Carbohydrates"
+     ],
+     "a": 0
+    },
+    {
+     "q": "The phrase Water-Soluble & Fat-Soluble Vitamins describes:",
+     "o": [
+      "Vitamin classification",
+      "Protein classification",
+      "Lipid classification",
+      "Carbohydrate classification"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Which vitamin letter is not among the fat-soluble vitamins A, D, E, and K?",
+     "o": [
+      "B",
+      "A",
+      "D",
+      "K"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 3,
+   "en": "Learning Outcomes 01\nORIENTATION\n\nStudents should be able to\n• Classify vitamins by solubility\n• Recognize key structural features\n• Relate vitamins to biochemical functions\n• Identify classic deficiency signs\n• Apply the concepts to pharmacy practice\n\nStudy sequence\nStructure → Function → Deficiency → Clinical relevance\n\nTAKE-HOME Solubility is the first organizing principle.",
+   "ar": "الأهداف التعليمية: الطالب يقدر يصنف الفيتامينات حسب الذوبان، يتعرف على التركيب، يربطها بالوظائف البيوكيميائية، يعرف علامات النقص الكلاسيكية، ويطبق ده في ممارسة الصيدلة. ترتيب الدراسة: Structure ثم Function ثم Deficiency ثم Clinical relevance. الرسالة المهمة: Solubility هي أول مبدأ لتنظيم الموضوع.",
+   "ex": "زي ما ترتب مذاكرة فيتامين: أعرف هو يذوب في إيه (Solubility)، شكله إيه (Structure)، وظيفته إيه (Function)، لو ناقص يحصل إيه (Deficiency)، وده يفيدني إزاي في الصيدلية (Clinical relevance).",
+   "q": [
+    {
+     "q": "Which of the following is a listed learning outcome?",
+     "o": [
+      "Classify vitamins by solubility",
+      "Memorize DNA sequence",
+      "Perform surgery",
+      "Diagnose fractures"
+     ],
+     "a": 0
+    },
+    {
+     "q": "According to the study sequence, what comes right after Structure?",
+     "o": [
+      "Function",
+      "Deficiency",
+      "Clinical relevance",
+      "Solubility"
+     ],
+     "a": 0
+    },
+    {
+     "q": "What is the TAKE-HOME message on this page?",
+     "o": [
+      "Solubility is the first organizing principle",
+      "Function is the first organizing principle",
+      "Deficiency is the first organizing principle",
+      "Structure is the first organizing principle"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Students should apply the concepts to what?",
+     "o": [
+      "Pharmacy practice",
+      "Engineering",
+      "Law",
+      "Agriculture"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Which sequence is given on the page?",
+     "o": [
+      "Structure → Function → Deficiency → Clinical relevance",
+      "Function → Structure → Toxicity → Storage",
+      "Deficiency → Structure → Function → Absorption",
+      "Clinical relevance → Function → Structure → Deficiency"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "en": "What Are Vitamins? 01\n\nCore characteristics\n• Present in normal food in small concentrations.\n• Do not enter major tissue structures.\n• Act in many body reactions as catalysts.\n• Must be supplied by the diet.\n\nTwo solubility groups\n• Water-soluble\n• Fat-soluble\n\nSolubility influences storage, absorption and toxicity.\n\nKEY POINT Vitamins are classified mainly by solubility into water-soluble and fat-soluble groups.\n\nPage 2",
+   "ar": "الفيتامينات موجودة في الأكل العادي بتركيزات صغيرة، مش بتدخل في تكوين الأنسجة الأساسية، وبتشتغل كـ catalysts في تفاعلات كتير، ولازم تتاخد من الغذاء. بتتقسم حسب الذوبان إلى Water-soluble و Fat-soluble. الذوبان بيأثر على storage و absorption و toxicity. النقطة الأساسية: التصنيف الأساسي للفيتامينات حسب Solubility.",
+   "ex": "تخيلها زي ملح الطعام: كمية صغيرة جدًا بتعمل فرق كبير، ومش بتترسب في الأنسجة كجزء منها، والجسم مش بيصنعها فلازم تجيله من الأكل.",
+   "q": [
+    {
+     "q": "Vitamins are present in normal food in:",
+     "o": [
+      "Small concentrations",
+      "Large concentrations",
+      "Zero concentrations",
+      "Only in water"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Which is a core characteristic of vitamins according to the page?",
+     "o": [
+      "Must be supplied by the diet",
+      "Are synthesized in large amounts by the body",
+      "Enter major tissue structures",
+      "Act only as hormones"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Vitamins act in many body reactions as:",
+     "o": [
+      "Catalysts",
+      "Structural proteins",
+      "Hormones only",
+      "Antibodies"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Solubility influences storage, absorption and:",
+     "o": [
+      "Toxicity",
+      "Color",
+      "Taste",
+      "Smell"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Vitamins are classified mainly by:",
+     "o": [
+      "Solubility",
+      "Molecular weight",
+      "Color",
+      "Charge"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 5,
+   "en": "Vitamin Classification Map 02\n\nWater-soluble\nVitamin C + B-complex + lipoic acid + inositol + choline\n\nFat-soluble\nVitamins A, D, E and K\n\nKEY POINT Vitamins first by solubility, then by individual vitamin chemistry and function.\n\nPage 3",
+   "ar": "خريطة تصنيف الفيتامينات: Water-soluble تشمل Vitamin C و B-complex و lipoic acid و inositol و choline. أما Fat-soluble فهي Vitamins A, D, E and K. التصنيف الأول حسب Solubility، وبعدين حسب كيمياء ووظيفة كل فيتامين.",
+   "ex": "زي تصنيف الناس الأول حسب البلد، وبعدين حسب الشغل: هنا الأول حسب Solubility، وبعدين حسب وظيفة كل فيتامين.",
+   "q": [
+    {
+     "q": "Which are water-soluble according to the classification map?",
+     "o": [
+      "Vitamin C + B-complex + lipoic acid + inositol + choline",
+      "Vitamins A, D, E and K",
+      "Only vitamin C",
+      "Only B-complex"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Which are fat-soluble according to the classification map?",
+     "o": [
+      "Vitamins A, D, E and K",
+      "Vitamin C and B-complex",
+      "Lipoic acid and inositol",
+      "Choline and biotin"
+     ],
+     "a": 0
+    },
+    {
+     "q": "In the classification map, vitamins are first classified by what?",
+     "o": [
+      "Solubility",
+      "Function",
+      "Deficiency",
+      "Structure"
+     ],
+     "a": 0
+    },
+    {
+     "q": "After solubility, what is the next basis for classification according to the key point?",
+     "o": [
+      "Individual vitamin chemistry and function",
+      "Color and taste",
+      "Dietary source only",
+      "Molecular charge"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Which compound is listed with B-complex in the water-soluble group?",
+     "o": [
+      "Lipoic acid",
+      "Vitamin K",
+      "Vitamin A",
+      "Vitamin D"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "en": "Water-Soluble Vitamins: The Group 03\n\nVitamin C / Ascorbic acid\nB1 – Thiamine\nB2 – Riboflavin\nB3 – Niacin\nB5 – Pantothenic acid\nB6 – Pyridoxine / PLP\nB7 – Biotin\nB9 – Folic acid / Folinic acid\nB12 – Cyanocobalamin\nLipoic acid\nInositol\nCholine\n\nKEY POINT Water-soluble vitamins include vitamin C, the B-complex members and other listed compounds.\n\nPage 4",
+   "ar": "المجموعة Water-soluble تشمل: Vitamin C / Ascorbic acid، و B-complex وهم B1 Thiamine، B2 Riboflavin، B3 Niacin، B5 Pantothenic acid، B6 Pyridoxine / PLP، B7 Biotin، B9 Folic acid / Folinic acid، B12 Cyanocobalamin، وكمان Lipoic acid و Inositol و Choline. النقطة الأساسية: الفيتامينات الذائبة في الماء تضم Vitamin C و B-complex والمركبات المذكورة.",
+   "ex": "زي قائمة فريق كامل: الأساسيين فيتامين C وعائلة B، ومعاهم لاعيبة إضافية زي Lipoic acid و Inositol و Choline.",
+   "q": [
+    {
+     "q": "Another name for Vitamin C is:",
+     "o": [
+      "Ascorbic acid",
+      "Thiamine",
+      "Riboflavin",
+      "Niacin"
+     ],
+     "a": 0
+    },
+    {
+     "q": "B1 is:",
+     "o": [
+      "Thiamine",
+      "Riboflavin",
+      "Niacin",
+      "Pyridoxine"
+     ],
+     "a": 0
+    },
+    {
+     "q": "B6 is:",
+     "o": [
+      "Pyridoxine / PLP",
+      "Cyanocobalamin",
+      "Folic acid",
+      "Biotin"
+     ],
+     "a": 0
+    },
+    {
+     "q": "B12 is:",
+     "o": [
+      "Cyanocobalamin",
+      "Pantothenic acid",
+      "Biotin",
+      "Choline"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Which of the following is listed as water-soluble?",
+     "o": [
+      "Choline",
+      "Vitamin A",
+      "Vitamin D",
+      "Vitamin K"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "en": "Vitamin C: Chemistry of L-Ascorbic Acid 04\n\nStructural features\n• Endiol-lactone\n• C2=C3 double bond\n• Two –OH groups\n• Lactone ring C1–C4\n• Two asymmetric carbons: C4, C5\n\nRedox behavior\n• Strong reducing agent → oxidized to dehydroascorbic acid\n• Oxidative destruction accelerated by Light • increased pH • ascorbic acid oxidase\n\nKEY POINT Vitamin C chemistry explains its reducing action and sensitivity to oxidation.\n\nPage 5",
+   "ar": "كيمياء Vitamin C (L-Ascorbic acid): عنده تركيب Endiol-lactone، رابطة مزدوجة بين C2 و C3، مجموعتي –OH، حلقة Lactone من C1–C4، وكربونين غير متماثلين C4 و C5. بالنسبة للأكسدة والاختزال: هو Strong reducing agent وبيتأكسد إلى dehydroascorbic acid. تكسره بالـ oxidation بيزيد مع الضوء، زيادة pH، وإنزيم ascorbic acid oxidase. النقطة الأساسية: كيمياء Vitamin C بتفسر دوره المختزل وحساسيته للأكسدة.",
+   "ex": "تخيل Vitamin C زي مضاد صدأ طبيعي: بيضحّي بنفسه ويتأكسد علشان يحمي غيره، وبالتالي الضوء والقلوية والإنزيم بيبوظوه بسرعة.",
+   "q": [
+    {
+     "q": "Vitamin C is chemically known as:",
+     "o": [
+      "L-Ascorbic acid",
+      "Retinol",
+      "Thiamine",
+      "Tocopherol"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Which structural feature is found in L-ascorbic acid?",
+     "o": [
+      "Endiol-lactone",
+      "Steroid ring",
+      "Purine ring",
+      "Pyrimidine ring"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Ascorbic acid has a double bond between:",
+     "o": [
+      "C2 and C3",
+      "C1 and C2",
+      "C3 and C4",
+      "C4 and C5"
+     ],
+     "a": 0
+    },
+    {
+     "q": "As a strong reducing agent, ascorbic acid is oxidized to:",
+     "o": [
+      "Dehydroascorbic acid",
+      "Retinoic acid",
+      "Thiamine pyrophosphate",
+      "Biotin"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Oxidative destruction of ascorbic acid is accelerated by:",
+     "o": [
+      "Light",
+      "Increased pH",
+      "Ascorbic acid oxidase",
+      "All of the above"
+     ],
+     "a": 3
+    }
+   ]
+  },
+  {
+   "page": 8,
+   "en": "Vitamin C: Major Functions\n\nBiochemical roles:\n- Supports collagen formation and wound healing.\n- Helps proline → hydroxyproline.\n- Supports osteoblasts and odontoblasts.\n- Activates folic acid to folinic acid.\n- Improves iron absorption by reducing Fe³⁺ to Fe²⁺.\n- Participates in tryptophan metabolism.\n\nDeficiency:\nSCURVY\n- Spongy gums\n- Loose teeth\n- Fragile vessels\n- Delayed healing\n\nKEY POINT: Vitamin C is strongly linked to connective tissue integrity and iron absorption.",
+   "ar": "فيتامين C له وظائف حيوية مهمة: يساعد في تكوين الكولاجين (collagen) والتئام الجروح، ويساعد تحويل البرولين (proline) إلى هيدروكسي برولين (hydroxyproline)، ويدعم الخلايا البانية للعظم (osteoblasts) والخلايا البانية للأسنان (odontoblasts)، وينشط حمض الفوليك (folic acid) إلى فولينيك أسيد (folinic acid)، ويحسن امتصاص الحديد بتحويل Fe³⁺ إلى Fe²⁺، ويشارك في تمثيل التربتوفان (tryptophan).\nنقص فيتامين C يسبب مرض الأسقربوط (SCURVY): لثة إسفنجية، أسنان سائبة أو متخلخلة، أوعية دقيقة هشة، وتأخر التئام الجروح.\nنقطة مفتاحية: فيتامين C مرتبط بقوة بسلامة النسيج الضام وامتصاص الحديد.",
+   "ex": "تخيل فيتامين C زي الصنايعي اللي بيبني الكولاجين ويلحم الجروح، ويثبت اللثة والأسنان. كمان بياخد الحديد الصعب امتصاصه ويحوله لصورة سهلة الامتصاص.",
+   "q": [
+    {
+     "q": "Which vitamin C role is directly related to collagen formation and wound healing?",
+     "o": [
+      "Supports collagen formation and wound healing",
+      "Inhibits collagen formation",
+      "Breaks down hydroxyproline",
+      "Reduces folic acid to folinic acid"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Vitamin C helps convert which amino acid to hydroxyproline?",
+     "o": [
+      "Tryptophan",
+      "Lysine",
+      "Proline",
+      "Glycine"
+     ],
+     "a": 2
+    },
+    {
+     "q": "The classic deficiency disease of vitamin C is:",
+     "o": [
+      "Pellagra",
+      "Beri-Beri",
+      "Rickets",
+      "Scurvy"
+     ],
+     "a": 3
+    },
+    {
+     "q": "Vitamin C improves iron absorption by:",
+     "o": [
+      "Oxidizing Fe2+ to Fe3+",
+      "Reducing Fe3+ to Fe2+",
+      "Binding iron to calcium",
+      "Converting iron to ferritin"
+     ],
+     "a": 1
+    },
+    {
+     "q": "Which cells does vitamin C support?",
+     "o": [
+      "Osteoclasts only",
+      "Neurons only",
+      "Osteoblasts and odontoblasts",
+      "Erythrocytes only"
+     ],
+     "a": 2
+    }
+   ]
+  },
+  {
+   "page": 9,
+   "en": "B-Complex: Overview\n\nThe B-complex members:\n- B1: Thiamine\n- B2: Riboflavin\n- B3: Niacin\n- B5: Pantothenic acid\n- B6: Pyridoxine / PLP\n- B7: Biotin\n- B9: Folic acid\n- B12: Cyanocobalamin\n\nKEY POINT: B-complex vitamins are a family of distinct molecules with different cofactor and metabolic roles.",
+   "ar": "فيتامينات B-complex هي مجموعة من الجزيئات المختلفة وليست فيتامين واحد. الأعضاء: B1 ثيامين (Thiamine)، B2 ريبوفلافين (Riboflavin)، B3 نياسين (Niacin)، B5 بانتوثينيك أسيد (Pantothenic acid)، B6 بيريدوكسين/PLP (Pyridoxine / PLP)، B7 بيوتين (Biotin)، B9 حمض الفوليك (Folic acid)، B12 سيانوكوبالامين (Cyanocobalamin).\nنقطة مفتاحية: كل واحد له دور مختلف كـ cofactor ووظائف metabolic مختلفة.",
+   "ex": "B-complex زي فريق عمل في مصنع: كل واحد شغال في خط إنتاج مختلف، مش كلهم نفس الشغل.",
+   "q": [
+    {
+     "q": "Which B-complex member is B1?",
+     "o": [
+      "Thiamine",
+      "Riboflavin",
+      "Niacin",
+      "Biotin"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Which B-complex member is B12?",
+     "o": [
+      "Folic acid",
+      "Cyanocobalamin",
+      "Pantothenic acid",
+      "Pyridoxine"
+     ],
+     "a": 1
+    },
+    {
+     "q": "Folic acid is which B vitamin?",
+     "o": [
+      "B3",
+      "B5",
+      "B9",
+      "B7"
+     ],
+     "a": 2
+    },
+    {
+     "q": "Niacin is which B vitamin?",
+     "o": [
+      "B3",
+      "B6",
+      "B12",
+      "B2"
+     ],
+     "a": 0
+    },
+    {
+     "q": "What is the key point about B-complex vitamins?",
+     "o": [
+      "All are identical molecules",
+      "They are a family of distinct molecules with different cofactor and metabolic roles",
+      "They all treat scurvy",
+      "They are only stored in the liver"
+     ],
+     "a": 1
+    }
+   ]
+  },
+  {
+   "page": 10,
+   "en": "Vitamin B1: Thiamine\n\nChemistry:\n- Pyrimidine ring + thiazole ring.\n- Active coenzyme form: TPP.\n\nDeficiency:\n- Infantile Beri-Beri: tachycardia, vomiting, convulsion and if not treated, death occurs.\n- Adult Beri-Beri: dry skin, irritability, disorderly [text incomplete in source].\n\nClinical learning focus:\n1. TPP is necessary for oxidative decarboxylation.\n2. It is necessary for pentose metabolism in RBCs.\n3. It is necessary for optimal growth of infants and children.\n4. It increases the activity of acetyl choline at nerve ending by inhibiting acetyl choline esterase enzyme.",
+   "ar": "فيتامين B1 (Thiamine) تركيبه من حلقة pyrimidine وحلقة thiazole. صورته النشطة كإنزيم مساعد هي TPP.\nنقصه يسبب:\n- Beri-Beri عند الرضع: تسارع قلب (tachycardia)، قيء، تشنجات، ولو لم يعالج قد يؤدي للوفاة.\n- Beri-Beri عند الكبار: جلد جاف، عصبية أو انفعالية، واضطراب [النص مقطوع في المصدر].\nأهميته: TPP ضروري للـ oxidative decarboxylation، وضروري لتمثيل البنتوز (pentose metabolism) في كريات الدم الحمراء، وضروري للنمو الأمثل للرضع والأطفال، ويزيد نشاط الأسيتيل كولين (acetyl choline) عند نهاية العصب عن طريق تثبيط إنزيم acetyl choline esterase.",
+   "ex": "TPP زي الشرارة اللي تولع حرق السكر وإنتاج الطاقة. لو نقص B1، الأعصاب والقلب يتأثروا ويظهر Beri-Beri.",
+   "q": [
+    {
+     "q": "What is the active coenzyme form of vitamin B1?",
+     "o": [
+      "TPP",
+      "FMN",
+      "FAD",
+      "PLP"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Vitamin B1 chemistry includes which rings?",
+     "o": [
+      "Pyrimidine ring + thiazole ring",
+      "Flavin + ribitol",
+      "Pyridine ring only",
+      "Purine + pyrimidine rings"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Infantile Beri-Beri may include:",
+     "o": [
+      "Tachycardia, vomiting, convulsion",
+      "Dermatitis, diarrhea, dementia",
+      "Spongy gums and loose teeth",
+      "Vascularization of cornea"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Vitamin B1 is necessary for pentose metabolism in which cells?",
+     "o": [
+      "RBCs",
+      "Osteoblasts",
+      "Odontoblasts",
+      "Corneal cells"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Vitamin B1 increases acetylcholine at nerve endings by:",
+     "o": [
+      "Inhibiting acetyl cholinesterase enzyme",
+      "Activating acetyl cholinesterase enzyme",
+      "Blocking acetylcholine receptors",
+      "Reducing TPP synthesis"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "en": "B2 – Riboflavin (Lactoflavin)\n\nStructure:\n- Heterocyclic substance called flavin or isollaxazine D-ribitol derived from D-ribose.\n\nDeficiency:\n- Is not associated with a major disease.\n- Severe deficiency symptoms include:\n  - In skin: Dermatitis.\n  - Cornea: Vascularization.\n  - In mouth: Cheilosis (fissuring at the corners of the mouth).\n  - Glossitis (the tongue appearing smooth and purplish).\n  - Lips are red and shiny.\n  - Synthesis of protein is impaired.\n\nTAKE-HOME: Riboflavin is present in tissues as biologically active forms which are:\n- Flavin mononucleotide (FMN)\n- Flavin adenino dinucleotide (FAD)",
+   "ar": "فيتامين B2 (Riboflavin أو Lactoflavin): تركيبه مادة heterocyclic تسمى flavin أو isollaxazine D-ribitol مشتقة من D-ribose.\nنقصه لا يرتبط بمرض رئيسي واحد، لكن نقصه الشديد يسبب:\n- في الجلد: التهاب جلد (Dermatitis).\n- في القرنية: تكوين أوعية دموية (Vascularization).\n- في الفم: تشقق زوايا الفم (Cheilosis)، والتهاب اللسان (Glossitis) بحيث يظهر اللسان أملس ومائل للبنفسجي، والشفتان حمراء ولامعة.\n- يتأثر تصنيع البروتين.\nالخلاصة: B2 يوجد في الأنسجة كصور نشطة: FMN و FAD.",
+   "ex": "B2 زي الزيت اللي يرطب ويمنع تشقق الجلد والمخاطيات. لو نقص، تشوف تشققات في زوايا الفم ولسان أملس بنفسجي.",
+   "q": [
+    {
+     "q": "What are the biologically active forms of riboflavin?",
+     "o": [
+      "FMN and FAD",
+      "NAD and NADP",
+      "TPP and PLP",
+      "CoA and ACP"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Cheilosis in riboflavin deficiency is:",
+     "o": [
+      "Fissuring at the corners of the mouth",
+      "Smooth purplish tongue",
+      "Vascularization of cornea",
+      "Inflammation of skin"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Glossitis in B2 deficiency means the tongue appears:",
+     "o": [
+      "Smooth and purplish",
+      "Dry and cracked",
+      "White and coated",
+      "Atrophied and black"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Severe riboflavin deficiency in the cornea causes:",
+     "o": [
+      "Vascularization",
+      "Cataract",
+      "Blindness at birth",
+      "Corneal ulcer only"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Riboflavin structure includes flavin or isollaxazine D-ribitol derived from:",
+     "o": [
+      "D-ribose",
+      "D-glucose",
+      "Tryptophan",
+      "Pyrimidine"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 12,
+   "en": "B3 – Niacin or nicotinic acid\n\n- Nicotinic acid / nicotinamide.\n- NAD/NADP-related redox chemistry.\n- Nicotinic acid is synthesized in the body from tryptophan (about 1 mg of nicotinic acid is formed from 60 mg of tryptophan).\n- Diet deficient in tryptophan will result in deficiency of nicotinic acid, e.g. Zein of maize.\n- Vitamin B6 is necessary for synthesis of nicotinic acid. So deficiency of vitamin B6 also results in a deficiency of nicotinic acid.\n\nDeficiency:\nPellagra (three Ds):\n- Dermatitis (inflammation of skin).\n- Diarrhea (GIT symptoms).\n- Dementia (loss of mental power) and, if untreated, death.\n\nTAKE-HOME: B3 = redox, nicotinamide adenine dinucleotide/phosphate (NAD/NADP). B3 vitamins connect directly to energy metabolism.",
+   "ar": "فيتامين B3 (Niacin أو nicotinic acid): يوجد كـ nicotinic acid / nicotinamide، ويدخل في تفاعلات الأكسدة والاختزال (redox) عبر NAD/NADP.\nيتصنع في الجسم من التربتوفان (tryptophan): حوالي 1 mg من حمض النيكوتينيك تتكون من 60 mg تربتوفان. لو النظام الغذائي ناقص تربتوفان، يحصل نقص B3، مثل Zein في الذرة.\nفيتامين B6 ضروري لتصنيع حمض النيكوتينيك، لذلك نقص B6 قد يسبب نقص B3.\nنقصه يسبب Pellagra وتعرف بالثلاثة Ds: Dermatitis (التهاب جلد)، Diarrhea (أعراض الجهاز الهضمي)، Dementia (فقدان القوى الذهنية) ولو لم تعالج قد تؤدي للوفاة.\nالخلاصة: B3 مرتبط مباشرة بتمثيل الطاقة.",
+   "ex": "Pellagra فكرها بالثلاثة D: جلد، إسهال، دماغ. والذرة (maize) فيها Zein قليل التربتوفان، فممكن تسبب نقص B3.",
+   "q": [
+    {
+     "q": "Nicotinic acid is synthesized in the body from:",
+     "o": [
+      "Tryptophan",
+      "Proline",
+      "D-ribose",
+      "Pyrimidine"
+     ],
+     "a": 0
+    },
+    {
+     "q": "About 1 mg of nicotinic acid is formed from how much tryptophan?",
+     "o": [
+      "60 mg",
+      "1 mg",
+      "6 mg",
+      "600 mg"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Pellagra is known as the three Ds, which are:",
+     "o": [
+      "Dermatitis, Diarrhea, Dementia",
+      "Dermatitis, Deafness, Death",
+      "Diarrhea, Dizziness, Dementia",
+      "Dry skin, Diarrhea, Dermatitis"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Which vitamin is necessary for synthesis of nicotinic acid?",
+     "o": [
+      "Vitamin B6",
+      "Vitamin B2",
+      "Vitamin C",
+      "Vitamin B5"
+     ],
+     "a": 0
+    },
+    {
+     "q": "B3 is connected to:",
+     "o": [
+      "Redox chemistry via NAD/NADP and energy metabolism",
+      "Acyl-group transfer only",
+      "Collagen formation",
+      "Calcium absorption"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 13,
+   "en": "B5 – Pantothenic acid\n\n- Part of coenzyme A.\n- Acyl-group transfer.\n- No deficiency in human.\n- The most important reaction is the combination of the coenzyme with acetate to form acetyl CoA.\n- Active acetate and choline are used for the synthesis of acetyl choline.\n- Active acetate is used in the synthesis of:\n  - Fatty acids\n  - Ketone bodies\n  - Cholesterol and adrenalcortical hormones\n  - Detoxication of sulfonamides\n\nTAKE-HOME: B5 = acyl transfer.",
+   "ar": "فيتامين B5 (Pantothenic acid): جزء من مرافق الإنزيم A (coenzyme A)، ووظيفته نقل مجموعات الأسيل (acyl-group transfer).\nلا يوجد نقص له في الإنسان.\nأهم تفاعل: اتحاد المرافق مع الأسيتات (acetate) لتكوين أسيتيل CoA (acetyl CoA).\nالأسيتات النشطة والكولين تستخدم لتصنيع الأسيتيل كولين (acetyl choline).\nالأسيتات النشطة تستخدم في تصنيع: الأحماض الدهنية (fatty acids)، الأجسام الكيتونية (ketone bodies)، الكوليسترول (cholesterol) وهرمونات القشرة الكظرية (adrenalcortical hormones)، وإزالة سمية السلفوناميدات (detoxication of sulfonamides).\nالخلاصة: B5 = نقل الأسيل.",
+   "ex": "B5 زي عامل التوصيل: بينقل مجموعات الأسيل ويساعد تكوين Acetyl CoA، اللي يدخل في الطاقة وتصنيع الدهون والكوليسترول.",
+   "q": [
+    {
+     "q": "Pantothenic acid is part of:",
+     "o": [
+      "Coenzyme A",
+      "TPP",
+      "FAD",
+      "PLP"
+     ],
+     "a": 0
+    },
+    {
+     "q": "B5 is mainly involved in:",
+     "o": [
+      "Acyl-group transfer",
+      "Redox reactions",
+      "Amino-acid decarboxylation",
+      "Iron reduction"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Combination of coenzyme with acetate forms:",
+     "o": [
+      "Acetyl CoA",
+      "Folic acid",
+      "NADP",
+      "Hydroxyproline"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Active acetate is used in the synthesis of:",
+     "o": [
+      "Fatty acids, ketone bodies, cholesterol, and adrenalcortical hormones",
+      "Collagen and hydroxyproline",
+      "Folic acid and folinic acid",
+      "Bile pigments only"
+     ],
+     "a": 0
+    },
+    {
+     "q": "B5 deficiency in humans is:",
+     "o": [
+      "No deficiency in human",
+      "Causes pellagra",
+      "Causes scurvy",
+      "Causes Beri-Beri"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 14,
+   "en": "B6 – Pyridoxine or Rat Antidermatitis Factor\n\n- Active PLP form.\n- Pyridoxal phosphate acts as a coenzyme for reactions involving amino-acid metabolism.\n- Vitamin B6 is a collective term for pyridoxine, pyridoxal and pyridoxamine, all derivatives of pyridine, differing only in the nature of the functional group attached to the ring.\n\nDeficiency:\n- Impaired growth.\n- Anemia due to decreased synthesis of hemoglobin.\n- Convulsions especially in children due to the decrease in concentration of gamma-aminobutyric acid (GABA) in brain.\n- Pellagra may result due to decreased formation of nicotinic acid.\n- Nausea and vomiting of early pregnancy as a result of depletion of vitamin B6.\n\nTAKE-HOME: B6 = amino-acid chemistry.",
+   "ar": "فيتامين B6 (Pyridoxine أو Rat Antidermatitis Factor): صورته النشطة هي PLP (pyridoxal phosphate)، ويعمل كإنزيم مساعد في تفاعلات تمثيل الأحماض الأمينية (amino-acid metabolism).\nفيتامين B6 مصطلح جامع لـ pyridoxine وpyridoxal وpyridoxamine، وكلها مشتقات pyridine وتختلف فقط في طبيعة المجموعة الوظيفية المتصلة بالحلقة.\nنقصه يسبب: ضعف النمو، أنيميا بسبب قلة تصنيع الهيموغلوبين (hemoglobin)، تشنجات خاصة في الأطفال بسبب نقص تركيز GABA في المخ، وقد يسبب Pellagra بسبب قلة تكوين حمض النيكوتينيك (nicotinic acid)، وغثيان وقيء في بداية الحمل بسبب استنفاد فيتامين B6.\nالخلاصة: B6 = كيمياء الأحماض الأمينية.",
+   "ex": "B6 زي مهندس تفاعلات الأحماض الأمينية. لو نقص في الأطفال، GABA في المخ يقل فتظهر تشنجات.",
+   "q": [
+    {
+     "q": "What is the active form of vitamin B6?",
+     "o": [
+      "Pyridoxal phosphate (PLP)",
+      "TPP",
+      "FAD",
+      "NADP"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Vitamin B6 is a collective term for:",
+     "o": [
+      "Pyridoxine, pyridoxal, pyridoxamine",
+      "Thiamine, riboflavin, niacin",
+      "Biotin, folic acid, B12",
+      "FMN and FAD"
+     ],
+     "a": 0
+    },
+    {
+     "q": "B6 deficiency anemia is due to:",
+     "o": [
+      "Decreased synthesis of hemoglobin",
+      "Iron deficiency",
+      "Folate deficiency",
+      "Vitamin C deficiency"
+     ],
+     "a": 0
+    },
+    {
+     "q": "B6 deficiency convulsions in children are due to decreased concentration of:",
+     "o": [
+      "GABA in brain",
+      "Acetylcholine at nerve endings",
+      "Tryptophan in blood",
+      "Hydroxyproline in collagen"
+     ],
+     "a": 0
+    },
+    {
+     "q": "B6 deficiency may result in pellagra due to decreased formation of:",
+     "o": [
+      "Nicotinic acid",
+      "Folinic acid",
+      "Acetyl CoA",
+      "Hydroxyproline"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 15,
+   "en": "B6 – Pyridoxine or Rat Antidermatitis Factor (B-complex)\n\nClinical indication for pyridoxine:\n- Isoniazide (isonicotinic acid hydrazide), a drug used to treat tuberculosis, can induce a B6 deficiency by forming inactive derivatives with pyridoxal phosphate.\n- Dietary supplementation with B6 is thus an adjunct to isoniazide treatment.\n\nCauses of deficiency:\n1. Dietary deficiencies in pyridoxine are rare but have been observed in newborn infants fed formulas low in vitamin B6.\n2. Women taking oral contraceptives and in alcoholics.\n3. Pregnancy, due to increased demand of the vitamin by the embryo.\n4. Tuberculous patients taking high doses of isoniazide as it combines with pyridoxine forming hydrazone which inactivates the vitamin.\n\nTAKE-HOME: B6 = amino-acid chemistry.",
+   "ar": "صفحة B6 (Pyridoxine أو Rat Antidermatitis Factor) من مجموعة B-complex.\n- الاستخدام الإكلينيكي المهم: دواء Isoniazide المستخدم لعلاج التدرن (السل) ممكن يسبب نقص B6 لأنه يكوّن مشتقات غير نشطة (inactive derivatives) مع pyridoxal phosphate.\n- لذلك نعطي مكمل B6 مع علاج Isoniazide.\nأسباب النقص:\n1) نقص غذائي نادر، لكن حصل في أطفال حديثي الولادة يتغذون على ألبان قليلة B6.\n2) النساء اللي يستخدمن oral contraceptives، ومدمنو الكحول (alcoholics).\n3) الحمل (pregnancy) بسبب زيادة طلب الجنين للفيتامين.\n4) مرضى السل اللي يأخذون جرعات عالية من Isoniazide لأنه يتحد مع pyridoxine مكونًا hydrazone الذي يعطّل الفيتامين.\nالخلاصة: B6 مهم في كيمياء الأحماض الأمينية (amino-acid chemistry).",
+   "ex": "تخيل B6 مفتاح لورشة الأحماض الأمينية. دواء Isoniazide ياخذ المفتاح ويعمل نسخة مكسورة inactive، فتتعطل الشغل. عشان كذا مريض السل يحتاج مكمل B6.",
+   "q": [
+    {
+     "q": "Vitamin B6 is also known as:",
+     "o": [
+      "Biotin or vitamin H",
+      "Pyridoxine or rat antidermatitis factor",
+      "Folic acid",
+      "Cyanocobalamin"
+     ],
+     "a": 1
+    },
+    {
+     "q": "Isoniazide can induce B6 deficiency by:",
+     "o": [
+      "Increasing B6 absorption",
+      "Blocking avidin",
+      "Forming inactive derivatives with pyridoxal phosphate",
+      "Inhibiting dihydrofolate reductase"
+     ],
+     "a": 2
+    },
+    {
+     "q": "Which is a cause of pyridoxine deficiency?",
+     "o": [
+      "Raw egg-white intake",
+      "Methotrexate therapy",
+      "Excess vitamin C",
+      "Newborn infants fed formulas low in vitamin B6"
+     ],
+     "a": 3
+    },
+    {
+     "q": "Why can pregnancy cause B6 deficiency?",
+     "o": [
+      "Due to decreased B6 synthesis in liver",
+      "Due to increased demand of the vitamin by the embryo",
+      "Due to avidin binding",
+      "Due to sulfonamide inhibition"
+     ],
+     "a": 1
+    },
+    {
+     "q": "B6 supplementation with isoniazide treatment is used because:",
+     "o": [
+      "It prevents biotin absorption",
+      "It inhibits THF",
+      "It is an adjunct to isoniazide treatment",
+      "It replaces intrinsic factor"
+     ],
+     "a": 2
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "en": "B7 – Biotin (Vitamin H)\n\nB7 – Biotin / Vitamin H:\n- Sulphur-containing heterocyclic monocarboxylic acid vitamin.\n- Cofactor in carboxylation reactions.\n\nRaw egg-white contains a glycoprotein, avidin, which tightly binds biotin and prevents its absorption from the intestine.",
+   "ar": "B7 هو Biotin ويسمى Vitamin H.\n- تركيبه: فيتامين يحتوي على كبريت (sulphur-containing)، حلقة غير متجانسة (heterocyclic)، وحمض أحادي الكربوكسيل (monocarboxylic acid).\n- وظيفته: cofactor في تفاعلات الكربوكسيلة (carboxylation reactions).\n- بياض البيض النيء (raw egg-white) فيه بروتين سكري اسمه avidin، يرتبط بقوة مع biotin ويمنع امتصاصه من الأمعاء.",
+   "ex": "تخيل biotin مفتاح لتفاعلات الكربوكسيلة. بياض البيض النيء فيه avidin مثل لاصق قوي يمسك المفتاح، فيمنع الجسم يستفيد من biotin.",
+   "q": [
+    {
+     "q": "Biotin is also called:",
+     "o": [
+      "Vitamin C",
+      "Vitamin H",
+      "Vitamin B12",
+      "Vitamin K"
+     ],
+     "a": 1
+    },
+    {
+     "q": "Biotin is chemically described as:",
+     "o": [
+      "A corrin ring system",
+      "A naphthoquinone",
+      "A sulphur-containing heterocyclic monocarboxylic acid vitamin",
+      "A tocopherol"
+     ],
+     "a": 2
+    },
+    {
+     "q": "Biotin acts as a cofactor in:",
+     "o": [
+      "Clotting reactions",
+      "Vision cycle",
+      "Mineral balance",
+      "Carboxylation reactions"
+     ],
+     "a": 3
+    },
+    {
+     "q": "Avidin is found in:",
+     "o": [
+      "Parietal cells",
+      "Raw egg-white",
+      "Liver",
+      "Milk"
+     ],
+     "a": 1
+    },
+    {
+     "q": "Avidin affects biotin by:",
+     "o": [
+      "Activating it in the liver",
+      "Converting it to THF",
+      "Tightly binding it and preventing intestinal absorption",
+      "Increasing its storage"
+     ],
+     "a": 2
+    }
+   ]
+  },
+  {
+   "page": 17,
+   "en": "B9 – Folic acid, Folacin\n\nB9 – Folate:\n- Tetrahydrofolic acid (THF) is the coenzyme required for the transfer of single carbon units as:\n  - Formyl (CHO)\n  - Formate (HCOOH)\n  - Methyl (CH3)\n  - Hydroxy methyl group (CH2OH)\n- Activated in liver by the help of vitamin C into folinic.\n- The biologically active form is tetrahydrofolic acid (THF).\n- It is produced by the two-step reduction of folate by dihydrofolate reductase.\n\nUtilization of single-carbon moiety:\n1. Source of carbon 2 and 8 of purines.\n\nFolic acid is inhibited by:\n- Dihydrofolate reductase, which is competitively inhibited by methotrexate.\n- Sulfonamide.\n\nDeficiency:\n1. Megaloblastic anemia, caused by diminished synthesis of purines leading to an inability of cells to make DNA.\n2. Macrocytic anemia (as it is necessary for synthesis of red blood cells).\n3. Leucopenia (as it is used for synthesis of white cells).\n\nKEY POINT: Sulfonamide and its derivatives, which are structural analogs of beta-amino benzoic acid, can inhibit THF.",
+   "ar": "B9 هو Folic acid ويسمى Folacin/Folate.\n- الصورة النشطة حيويًا هي tetrahydrofolic acid (THF).\n- THF إنزيم مساعد (coenzyme) لنقل وحدات الكربون الواحدة (single carbon units) مثل: formyl (CHO)، formate (HCOOH)، methyl (CH3)، hydroxymethyl (CH2OH).\n- يتم تفعيله في الكبد بمساعدة فيتامين C إلى folinic.\n- THF ينتج من اختزال folate على خطوتين بواسطة إنزيم dihydrofolate reductase.\n- استخداماته: مصدر لكربون 2 و 8 في الـ purines.\n- تثبيط folic acid: بواسطة dihydrofolate reductase الذي يُثبط تنافسيًا بـ methotrexate، و بواسطة sulfonamide.\n- أعراض النقص:\n1) Megaloblastic anemia بسبب نقص تصنيع purines وعدم قدرة الخلايا على عمل DNA.\n2) Macrocytic anemia لأنه ضروري لتصنيع كريات الدم الحمراء.\n3) Leucopenia لأنه يستخدم لتصنيع خلايا الدم البيضاء.\nنقطة مهمة: Sulfonamide ومشتقاته تشبه beta-amino benzoic acid فتمنع THF.",
+   "ex": "THF مثل شاحنة صغيرة تنقل قطع كربون لبناء DNA وخلايا الدم. لو Methotrexate أو Sulfonamide وقّفوا الشاحنة، يحصل فقر دم megaloblastic و leucopenia.",
+   "q": [
+    {
+     "q": "The biologically active form of folate is:",
+     "o": [
+      "Cyanocobalamin",
+      "Tetrahydrofolic acid (THF)",
+      "Biotin",
+      "Tocopherol"
+     ],
+     "a": 1
+    },
+    {
+     "q": "THF is produced by two-step reduction of folate by:",
+     "o": [
+      "Avidin",
+      "Intrinsic factor",
+      "Dihydrofolate reductase",
+      "Sulfonamide"
+     ],
+     "a": 2
+    },
+    {
+     "q": "Methotrexate competitively inhibits:",
+     "o": [
+      "Parietal cells",
+      "Carboxylation",
+      "Dihydrofolate reductase",
+      "Porphyrin ring formation"
+     ],
+     "a": 2
+    },
+    {
+     "q": "Sulfonamide can inhibit THF because it is a structural analog of:",
+     "o": [
+      "Pyridoxal phosphate",
+      "Biotin",
+      "beta-amino benzoic acid",
+      "Cyanocobalamin"
+     ],
+     "a": 2
+    },
+    {
+     "q": "Which is NOT listed as a folate deficiency effect?",
+     "o": [
+      "Megaloblastic anemia",
+      "Macrocytic anemia",
+      "Leucopenia",
+      "Pernicious anemia"
+     ],
+     "a": 3
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "en": "B12 – Cyanocobalamin anti-pernicous anemia factor\n\nB12 – Cyanocobalamin:\n- 4 pyrrole rings (called a corrin ring system).\n\nAbsorption (in the ileum):\n- Dietary vitamin B12 binds to a glycoprotein called intrinsic factor in the intestine.\n- The B12–intrinsic factor complex binds to specific receptors on mucosal cells.\n- B12 is taken into the mucosal cell and then released into the bloodstream, where it is carried by B12 binding proteins.\n\nRole of intrinsic factor:\n- Parietal cells make intrinsic factor.\n- Intrinsic factor deficiency prevents B12 absorption, leading to pernicious anemia.\n\nCoenzyme functions of B12:\n- Works with folic acid to support nucleic acid/nucleoprotein synthesis.\n- If deficient, abnormal fatty acids accumulate and may contribute to neurologic symptoms.\n- Reduced porphyrin ring formation and hemoglobin synthesis.\n\nKEY POINT: Folate and B12 are central to DNA synthesis and blood-cell formation.",
+   "ar": "B12 هو Cyanocobalamin ويسمى anti-pernicous anemia factor.\n- تركيبه: 4 حلقات pyrrole تعرف باسم corrin ring system.\n- الامتصاص في الـ ileum: B12 الغذائي يرتبط ببروتين سكري اسمه intrinsic factor في الأمعاء.\n- مركب B12–intrinsic factor يرتبط بمستقبلات خاصة على خلايا الغشاء المخاطي (mucosal cells).\n- B12 يدخل الخلية ثم ينتقل للدم حيث تحمله B12 binding proteins.\n- دور intrinsic factor: تصنعه parietal cells؛ نقصه يمنع امتصاص B12 ويسبب pernicious anemia.\n- وظائف B12 كإنزيم مساعد: يعمل مع folic acid لدعم تصنيع nucleic acid/nucleoprotein؛ نقصه يراكم أحماض دهنية غير طبيعية وقد يسبب أعراض عصبية؛ ويقلل تكوين porphyrin ring و hemoglobin.\nنقطة مهمة: Folate و B12 محوريان لتصنيع DNA وتكوين خلايا الدم.",
+   "ex": "تخيل B12 راكب يحتاج عربة اسمها intrinsic factor عشان ينقل من الأمعاء للدم. لو parietal cells تعبت وما صنعت العربة، B12 ما يمتص ويصير pernicious anemia. B12 كمان يساعد في تصنيع DNA والهيموجلوبين.",
+   "q": [
+    {
+     "q": "The structure of B12 includes:",
+     "o": [
+      "A sulphur-containing monocarboxylic acid",
+      "4 pyrrole rings called a corrin ring system",
+      "A naphthoquinone ring",
+      "A tocopherol nucleus"
+     ],
+     "a": 1
+    },
+    {
+     "q": "Vitamin B12 is absorbed in the:",
+     "o": [
+      "Stomach",
+      "Liver",
+      "Ileum",
+      "Kidney"
+     ],
+     "a": 2
+    },
+    {
+     "q": "Dietary B12 binds to which glycoprotein in the intestine?",
+     "o": [
+      "Avidin",
+      "Dihydrofolate reductase",
+      "Sulfonamide",
+      "Intrinsic factor"
+     ],
+     "a": 3
+    },
+    {
+     "q": "Intrinsic factor is made by:",
+     "o": [
+      "Mucosal cells",
+      "Parietal cells",
+      "Hepatocytes",
+      "B12 binding proteins"
+     ],
+     "a": 1
+    },
+    {
+     "q": "Intrinsic factor deficiency prevents B12 absorption and leads to:",
+     "o": [
+      "Leucopenia",
+      "Pernicious anemia",
+      "Scurvy",
+      "Rickets"
+     ],
+     "a": 1
+    }
+   ]
+  },
+  {
+   "page": 19,
+   "en": "B12 – Cyanocobalamin (Vit. B12) anti-pernicous anemia factor\n\nWhy symptoms may take time:\n- The body stores a significant amount of B12 (about 4–5 mg), so it can take years for deficiency symptoms to appear after gastrectomy/induced intrinsic factor loss.\n\nDeficiency effects:\n- B12 deficiency can reduce THF forms needed for purine and thymine synthesis → contributes to megaloblastic anemia.\n- Leads to pernicious anemia, characterized by:\n  • Macrocytic anemia\n  • Nervous (neurologic) manifestations\n\nKEY POINT: Vitamin B12 deficiency is associated with macrocytic anemia and nervous manifestations.",
+   "ar": "B12 (Cyanocobalamin) anti-pernicous anemia factor.\n- لماذا الأعراض تتأخر؟ لأن الجسم يخزن كمية كبيرة من B12 حوالي 4–5 mg، لذلك ممكن تأخذ سنوات لتظهر أعراض النقص بعد gastrectomy أو فقد intrinsic factor.\n- تأثيرات النقص:\n  - نقص B12 يقلل صور THF اللازمة لتصنيع purine و thymine → يساهم في megaloblastic anemia.\n  - يؤدي إلى pernicious anemia وتتميز بـ:\n    • Macrocytic anemia\n    • أعراض عصبية (nervous/neurologic manifestations)\nنقطة مهمة: نقص B12 مرتبط بـ macrocytic anemia وأعراض عصبية.",
+   "ex": "مخزون B12 مثل بطارية احتياطية تكفي سنوات. لو انقطع الامتصاص بعد استئصال المعدة، البطارية تظل تشغل الجسم مدة، وبعدين تظهر الأعراض: فقر دم كبير الكريات وأعراض عصبية.",
+   "q": [
+    {
+     "q": "The body stores about how much B12?",
+     "o": [
+      "4–5 g",
+      "4–5 mg",
+      "40–50 mg",
+      "0.4–0.5 mg"
+     ],
+     "a": 1
+    },
+    {
+     "q": "Why may B12 deficiency symptoms take years to appear after gastrectomy?",
+     "o": [
+      "Because B12 is made in the skin",
+      "Because avidin protects B12",
+      "Because the body stores a significant amount of B12",
+      "Because sulfonamide inhibits THF"
+     ],
+     "a": 2
+    },
+    {
+     "q": "B12 deficiency reduces THF forms needed for synthesis of:",
+     "o": [
+      "Biotin and avidin",
+      "Intrinsic factor",
+      "Porphyrin only",
+      "Purine and thymine"
+     ],
+     "a": 3
+    },
+    {
+     "q": "B12 deficiency contributes to:",
+     "o": [
+      "Scurvy",
+      "Megaloblastic anemia",
+      "Rickets",
+      "Night blindness"
+     ],
+     "a": 1
+    },
+    {
+     "q": "Pernicious anemia due to B12 deficiency is characterized by:",
+     "o": [
+      "Macrocytic anemia and nervous manifestations",
+      "Microcytic anemia and clotting defects",
+      "Leucopenia only",
+      "Vision loss only"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 20,
+   "en": "Fat-Soluble Vitamins: A, D, E and K\n\nA: Retinoids / carotene-related\nD: Cholecalciferol\nE: Tocopherols\nK: Naphthoquinone\n\nKEY POINT: Fat-soluble vitamins are stored/handled differently from water-soluble vitamins; the lecture covers A, D, E and K.",
+   "ar": "الفيتامينات الذائبة في الدهون: A, D, E, K.\n- A: Retinoids / carotene-related.\n- D: Cholecalciferol.\n- E: Tocopherols.\n- K: Naphthoquinone.\nنقطة مهمة: الفيتامينات الذائبة في الدهون يتم تخزينها والتعامل معها بشكل مختلف عن الفيتامينات الذائبة في الماء؛ المحاضرة تغطي A, D, E, K.",
+   "ex": "فيتامينات A D E K مثل مواد تذوب في الزيت، فتتخزن في دهون الجسم. عكس فيتامينات الماء اللي تطلع بسرعة مع البول.",
+   "q": [
+    {
+     "q": "Which vitamins are fat-soluble according to the lecture?",
+     "o": [
+      "A, D, E and K",
+      "B1, B2, B6 and B12",
+      "C and B-complex",
+      "A, B, C and D"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Vitamin A is listed as:",
+     "o": [
+      "Retinoids / carotene-related",
+      "Cholecalciferol",
+      "Tocopherols",
+      "Naphthoquinone"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Vitamin D is listed as:",
+     "o": [
+      "Retinoids / carotene-related",
+      "Cholecalciferol",
+      "Tocopherols",
+      "Naphthoquinone"
+     ],
+     "a": 1
+    },
+    {
+     "q": "Vitamin E is listed as:",
+     "o": [
+      "Retinoids / carotene-related",
+      "Cholecalciferol",
+      "Tocopherols",
+      "Naphthoquinone"
+     ],
+     "a": 2
+    },
+    {
+     "q": "Vitamin K is chemically listed as:",
+     "o": [
+      "Retinoids / carotene-related",
+      "Cholecalciferol",
+      "Tocopherols",
+      "Naphthoquinone"
+     ],
+     "a": 3
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "en": "Fat-Soluble Vitamins: A, D, E and K\n\nFAT-SOLUBLE VITAMINS:\nA: Vision & epithelium\nD: Mineral balance\nE: Antioxidant\nK: Clotting\n\nTAKE-HOME: A, D, E and K have major roles in vision, minerals, antioxidant defense and coagulation.",
+   "ar": "الفيتامينات الذائبة في الدهون A, D, E, K ووظائفها:\n- A: Vision & epithelium (الرؤية والأنسجة الطلائية).\n- D: Mineral balance (توازن المعادن).\n- E: Antioxidant (مضاد أكسدة).\n- K: Clotting (تجلط الدم).\nالخلاصة: A, D, E, K لهم أدوار رئيسية في الرؤية، المعادن، الدفاع كمضادات أكسدة، والتجلط.",
+   "ex": "احفظها: A للعين، D للعظم والمعادن، E مضاد أكسدة، K للتجلط. جملة: A يرى، D يوازن المعادن، E يحمي من الأكسدة، K يوقف الدم.",
+   "q": [
+    {
+     "q": "Vitamin A is mainly associated with:",
+     "o": [
+      "Vision & epithelium",
+      "Mineral balance",
+      "Antioxidant",
+      "Clotting"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Vitamin D is mainly associated with:",
+     "o": [
+      "Vision & epithelium",
+      "Mineral balance",
+      "Antioxidant",
+      "Clotting"
+     ],
+     "a": 1
+    },
+    {
+     "q": "Vitamin E is mainly associated with:",
+     "o": [
+      "Vision & epithelium",
+      "Mineral balance",
+      "Antioxidant",
+      "Clotting"
+     ],
+     "a": 2
+    },
+    {
+     "q": "Vitamin K is mainly associated with:",
+     "o": [
+      "Vision & epithelium",
+      "Mineral balance",
+      "Antioxidant",
+      "Clotting"
+     ],
+     "a": 3
+    },
+    {
+     "q": "The take-home for A, D, E and K is that they have major roles in:",
+     "o": [
+      "Vision, minerals, antioxidant defense and coagulation",
+      "DNA synthesis and blood-cell formation only",
+      "Carboxylation and single-carbon transfer only",
+      "Biotin absorption and avidin binding"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "en": "Vitamin A: Retinoids and Vision\n\nVITAMIN A\n\nChemistry and source:\n- Derived from carotenoids.\n- β-carotene is an important provitamin.\n- Animal source: retinoids (retinol).\n- Plant source: carotenoids (β-carotene; provitamin).\n\nFunction:\n1- Responsible for accommodation and visual process.\nVisual pigments:\n- Rods → rhodopsin (dim light).\n- Cones → iodopsin (bright light).\n\nTAKE-HOME: Vitamin A is central to visual photochemistry and epithelial integrity.",
+   "ar": "فيتامين A (Vitamin A): كيميائياً ومصدره: مشتق من الكاروتينات (carotenoids)، والـ β-carotene هو Provitamin مهم. المصدر الحيواني: Retinoids مثل retinol. المصدر النباتي: Carotenoids مثل β-carotene (Provitamin).\nالوظائف: مسؤول عن الـ accommodation والـ visual process. الأصباغ البصرية: في الـ Rods يوجد rhodopsin ويعمل في الضوء الخافت (dim light)، وفي الـ Cones يوجد iodopsin ويعمل في الضوء الساطع (bright light).\nTake-home: فيتامين A مهم للـ visual photochemistry وسلامة الـ epithelium.",
+   "ex": "تخيل العين كاميرا: الـ Rods زي وضع التصوير الليلي (Night mode) ويشتغل فيها rhodopsin، والـ Cones زي وضع النهار الساطع ويشتغل فيها iodopsin. والـ β-carotene من النبات يتحول في الجسم لفيتامين A، بينما retinol جاهز من المصادر الحيوانية.",
+   "q": [
+    {
+     "q": "Which of the following is an important provitamin of vitamin A?",
+     "o": [
+      "β-carotene",
+      "Retinol",
+      "Iodopsin",
+      "Photopsin"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Animal sources of vitamin A are mainly:",
+     "o": [
+      "Retinoids (retinol)",
+      "Carotenoids (β-carotene)",
+      "Ergosterol",
+      "7-dehydrocholesterol"
+     ],
+     "a": 0
+    },
+    {
+     "q": "The visual pigment found in rods and used in dim light is:",
+     "o": [
+      "Rhodopsin",
+      "Iodopsin",
+      "Photopsin",
+      "Opsin"
+     ],
+     "a": 0
+    },
+    {
+     "q": "The visual pigment found in cones and used in bright light is:",
+     "o": [
+      "Iodopsin",
+      "Rhodopsin",
+      "Retinal",
+      "Retinol"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Vitamin A is central to which of the following according to the take-home message?",
+     "o": [
+      "Visual photochemistry and epithelial integrity",
+      "Calcium homeostasis and bone mineralization",
+      "Blood clotting and prothrombin activation",
+      "Collagen synthesis and wound healing"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 23,
+   "en": "Vitamin A: Retinoids and Vision\n\nIn dim light, chemical changes caused by light (photochemical) produce nerve impulses that pass to the optic nerve to the brain. The process works in a continuous 3-step loop:\n\n1. Light Exposure (Breakdown): Light hits rhodopsin, breaking it down into opsin and all-trans retinal.\n2. Resetting Vitamin A: All-trans retinal is converted to all-trans retinol, which exits the retina. In the pigment epithelium/bloodstream, an isomerase enzyme converts all-trans retinol back into 11-cis retinol (active form).\n3. Regeneration (In Darkness): 11-cis retinol re-enters the retina, converted to 11-cis retinal, and rapidly recombines with opsin in the dark to rebuild rhodopsin for night vision.\n\nVision in Bright Light (Cones & Iodopsin): Cones contain iodopsin, composed of vitamin A aldehyde (retinal) bound to the protein photopsin. Iodopsin is necessary for vision in bright light.\n\nTAKE-HOME: Vitamin A is central to visual photochemistry and epithelial integrity.",
+   "ar": "في الضوء الخافت: التغيرات الكيميائية الناتجة عن الضوء (photochemical) تنتج nerve impulses تنتقل عبر العصب البصري (optic nerve) للمخ، والعملية loop من 3 خطوات:\n1) Light Exposure/Breakdown: الضوء يضرب rhodopsin فيكسره إلى opsin و all-trans retinal.\n2) Resetting Vitamin A: يتحول all-trans retinal إلى all-trans retinol ويخرج من الشبكية؛ وفي pigment epithelium أو الدم، إنزيم isomerase يحوله إلى 11-cis retinol (الصورة النشطة).\n3) Regeneration (في الظلام): 11-cis retinol يرجع للشبكية، يتحول إلى 11-cis retinal، ويتحد سريعاً مع opsin لإعادة بناء rhodopsin لرؤية الليل.\nالرؤية في الضوء الساطع: الـ Cones تحتوي iodopsin، وهو مكوّن من vitamin A aldehyde (retinal) مرتبط ببروتين photopsin، وiodopsin ضروري للرؤية في الضوء الساطع.",
+   "ex": "تخيل rhodopsin زي بطارية كشاف: النور يفككها (opsin + all-trans retinal)، وبعدين الجسم يعيد تدوير الفيتامين في pigment epithelium ويرجعه 11-cis، ويركب تاني مع opsin في الظلام عشان تشوف بالليل. أما النهار فشغالين الـ cones بـ iodopsin.",
+   "q": [
+    {
+     "q": "In dim light, light exposure breaks rhodopsin into:",
+     "o": [
+      "Opsin and all-trans retinal",
+      "Opsin and 11-cis retinal",
+      "Photopsin and retinal",
+      "Iodopsin and retinol"
+     ],
+     "a": 0
+    },
+    {
+     "q": "The enzyme that converts all-trans retinol back to 11-cis retinol is found in:",
+     "o": [
+      "Pigment epithelium/bloodstream",
+      "Optic nerve",
+      "Lens",
+      "Cornea"
+     ],
+     "a": 0
+    },
+    {
+     "q": "In darkness, 11-cis retinol is converted to 11-cis retinal, which recombines with:",
+     "o": [
+      "Opsin",
+      "Photopsin",
+      "Iodopsin",
+      "β-carotene"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Iodopsin is composed of vitamin A aldehyde (retinal) bound to:",
+     "o": [
+      "Photopsin",
+      "Opsin",
+      "Albumin",
+      "Retinol-binding protein"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Which pigment is necessary for vision in bright light?",
+     "o": [
+      "Iodopsin",
+      "Rhodopsin",
+      "Bacteriorhodopsin",
+      "Melanin"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 24,
+   "en": "Vitamin A: Retinoids and Vision\n\nFunctions:\n2- Maintenance of healthy epithelial tissue and its growth.\n3- Responsible for normal construction of bones and teeth.\n4- Necessary for normal function of the adrenal cortex.\n5- Responsible for reproduction, especially in animals.\n\nDeficiency:\n1. In eyes: deficiency of vitamin A leads to:\na. Night blindness, or nyctalopia; dry eye (xerophthalmia).\nb. Fissuring of cornea (keratomalacia).\nc. Inflammation of the conjunctiva.\n2. Inflammation of the skin.\n3. Respiratory tract infections, leading to repeated cough due to lowered resistance of its mucosa.\n4. Urinary tract infections may lead to stone formation.\n5. Adrenal cortical gluconeogenesis is decreased.\n\nToxicity:\nExcessive intake of carotene may not be as harmful but may result in yellowish discolouration of skin (carotenemia) that disappears when carotene intake is stopped.\n\nTAKE-HOME: Vitamin A is central to visual photochemistry and epithelial integrity.",
+   "ar": "وظائف فيتامين A:\n2) يحافظ على صحة epithelial tissue ونموها.\n3) مسؤول عن التكوين الطبيعي للعظام والأسنان.\n4) ضروري للوظيفة الطبيعية لـ adrenal cortex.\n5) مسؤول عن التكاثر خاصة في الحيوانات.\n\nنقص فيتامين A (Deficiency):\n1) في العين: Night blindness أو nyctalopia، وجفاف العين (xerophthalmia). تشقق القرنية (keratomalacia). التهاب الملتحمة (conjunctiva).\n2) التهاب الجلد (skin inflammation).\n3) عدوى الجهاز التنفسي مع كحة متكررة بسبب ضعف مقاومة mucosa.\n4) عدوى المسالك البولية قد تؤدي إلى تكوين حصوات.\n5) يقل adrenal cortical gluconeogenesis.\n\nالسمية (Toxicity): زيادة intake للـ carotene غالباً ليست خطيرة لكن قد تسبب اصفرار الجلد (carotenemia) ويختفي عند إيقاف الكاروتين.",
+   "ex": "فيتامين A زي حارس للجلد والأغشية المخاطية والأسنان والعظام والغدة فوق الكلوية. لو نقص: العين أول حاجة (عشى ليلي وجفاف قرنية)، وبعدها التهابات جلد وتنفس وبول. لو زاد carotene: الجلد يصفر لكن مؤقت.",
+   "q": [
+    {
+     "q": "Vitamin A deficiency in the eye can cause:",
+     "o": [
+      "Night blindness and xerophthalmia",
+      "Cataract and glaucoma",
+      "Color blindness only",
+      "Retinal detachment only"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Keratomalacia means:",
+     "o": [
+      "Fissuring of the cornea",
+      "Clouding of the lens",
+      "Inflammation of the eyelid",
+      "Increased tear production"
+     ],
+     "a": 0
+    },
+    {
+     "q": "A respiratory complication of vitamin A deficiency is:",
+     "o": [
+      "Repeated cough due to lowered mucosal resistance",
+      "Asthma due to bronchial hyperreactivity",
+      "Pulmonary fibrosis",
+      "Emphysema due to smoking"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Excessive carotene intake may cause:",
+     "o": [
+      "Yellowish discolouration of skin (carotenemia)",
+      "Night blindness",
+      "Rickets",
+      "Hypercalcaemia"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Which is a function of vitamin A?",
+     "o": [
+      "Maintenance of healthy epithelial tissue and growth",
+      "Activation of prothrombin",
+      "Regulation of calcium and phosphorus",
+      "Collagen hydroxylation"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 25,
+   "en": "Vitamin D: Activation Pathway\n\nVITAMIN D\n\nPRECURSORS:\n- Ergosterol → D2\n- 7-dehydrocholesterol → D3\n\nLIVER:\n- 25-hydroxylation → 25-OH-D3\n\nKIDNEY:\n- 1-hydroxylation → 1,25-(OH)₂-D3\n\nTAKE-HOME: Active vitamin D is produced by sequential hydroxylation in liver and kidney.",
+   "ar": "فيتامين D: مسار التنشيط (Activation Pathway).\nالمصادر الأولية (Precursors): Ergosterol → D2، و7-dehydrocholesterol → D3.\nفي الكبد (Liver): تحدث 25-hydroxylation وينتج 25-OH-D3.\nفي الكلى (Kidney): تحدث 1-hydroxylation وينتج الشكل النشط 1,25-(OH)₂-D3.\nTake-home: فيتامين D النشط ينتج عن hydroxylation متتابع في الكبد ثم الكلى.",
+   "ex": "تخيل فيتامين D زي خام بترول: لازم يعدي على مصفاة الكبد (25-hydroxylation) وبعدها مصفاة الكلى (1-hydroxylation) عشان يبقى المنتج النهائي النشط 1,25-(OH)₂-D3.",
+   "q": [
+    {
+     "q": "Ergosterol is a precursor of:",
+     "o": [
+      "Vitamin D2",
+      "Vitamin D3",
+      "Vitamin A",
+      "Vitamin K"
+     ],
+     "a": 0
+    },
+    {
+     "q": "7-dehydrocholesterol is a precursor of:",
+     "o": [
+      "Vitamin D3",
+      "Vitamin D2",
+      "Retinol",
+      "Carotene"
+     ],
+     "a": 0
+    },
+    {
+     "q": "The first hydroxylation of vitamin D3 occurs in the:",
+     "o": [
+      "Liver",
+      "Kidney",
+      "Skin",
+      "Intestine"
+     ],
+     "a": 0
+    },
+    {
+     "q": "25-hydroxylation of vitamin D3 produces:",
+     "o": [
+      "25-OH-D3",
+      "1,25-(OH)₂-D3",
+      "7-dehydrocholesterol",
+      "Ergosterol"
+     ],
+     "a": 0
+    },
+    {
+     "q": "The active form of vitamin D is produced by sequential hydroxylation in:",
+     "o": [
+      "Liver and kidney",
+      "Kidney and skin",
+      "Skin and liver",
+      "Intestine and kidney"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "en": "Vitamin D: Chemistry and Activation\n\nPrecursors:\n- Ergosterol → D2\n- 7-dehydrocholesterol → D3\n\nMetabolism of cholecalciferol (vitamin D3) in vivo by sequential hydroxylation reactions.\n\nActivation pathway:\nFormation of 1,25-dihydroxy vitamin D3 by sequential hydroxylation reactions.\nA. The first hydroxylation occurs at the 25-position and is catalyzed by a specific hydroxylase in liver.\nB. 25-hydroxy-D3 is further hydroxylated at position 1 by a specific 25-hydroxy-cholecalciferol 1-hydroxylase found primarily in kidney.\n\nKEY POINT: The active form is produced through sequential hydroxylation in liver and kidney.",
+   "ar": "فيتامين D: الكيمياء والتنشيط.\nPrecursors: Ergosterol → D2، و7-dehydrocholesterol → D3.\nMetabolism of cholecalciferol (Vit D3) في الجسم يحدث بـ sequential hydroxylation reactions.\nActivation pathway: تكوين 1,25-dihydroxy Vit D3 عبر تفاعلات hydroxylation متتابعة.\nA) أول hydroxylation يحدث عند الموضع 25 (25-position) بواسطة إنزيم hydroxylase معين في الكبد.\nB) 25-hydroxy-D3 يتم hydroxylation إضافي عند الموضع 1 بواسطة إنزيم 25-hydroxy-cholecalciferol 1-hydroxylase الموجود أساساً في الكلى.\nKey point: الشكل النشط ينتج عبر sequential hydroxylation في الكبد والكلى.",
+   "ex": "يعني فيتامين D3 مش نشط لوحده؛ لازم الكبد يحط OH في مكان 25، وبعدين الكلى تحط OH تاني في مكان 1، فيطلع 1,25-(OH)₂-D3 وهو الشكل الفعال.",
+   "q": [
+    {
+     "q": "The first hydroxylation of vitamin D3 occurs at which position?",
+     "o": [
+      "25",
+      "1",
+      "7",
+      "3"
+     ],
+     "a": 0
+    },
+    {
+     "q": "The hydroxylase that acts at position 25 is found in:",
+     "o": [
+      "Liver",
+      "Kidney",
+      "Skin",
+      "Intestine"
+     ],
+     "a": 0
+    },
+    {
+     "q": "25-hydroxy-cholecalciferol 1-hydroxylase is found primarily in:",
+     "o": [
+      "Kidney",
+      "Liver",
+      "Skin",
+      "Adrenal cortex"
+     ],
+     "a": 0
+    },
+    {
+     "q": "The active form of vitamin D3 formed by sequential hydroxylation is:",
+     "o": [
+      "1,25-dihydroxy vitamin D3",
+      "25-hydroxy vitamin D3",
+      "7-dehydrocholesterol",
+      "Ergosterol"
+     ],
+     "a": 0
+    },
+    {
+     "q": "According to the key point, the active form is produced through sequential hydroxylation in:",
+     "o": [
+      "Liver and kidney",
+      "Kidney and skin",
+      "Skin and liver",
+      "Intestine and kidney"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 27,
+   "en": "Vitamin D: Calcium–Phosphate Homeostasis\n\nMain function:\n- Regulates calcium and phosphorus levels in blood.\n- ↑ intestinal calcium absorption.\n- ↑ mobilization from bone when needed.\n- ↓ renal calcium loss.\n\nVitamin D is steroid in nature (sterol) and occurs mainly in animals.\nRegulates calcium and phosphorus levels in blood.\nIncreases intestinal calcium absorption.\nSupports phosphate availability.\nSupports bone mineralization.\nReduces renal calcium loss.\n\nKEY POINT: Vitamin D maintains mineral balance; deficiency leads to defective bone mineralization.",
+   "ar": "فيتامين D: توازن الكالسيوم والفوسفات (Calcium–Phosphate Homeostasis).\nالوظيفة الرئيسية: ينظم calcium و phosphorus في الدم.\n- يزيد امتصاص الكالسيوم من الأمعاء (intestinal calcium absorption).\n- يزيد تحرير الكالسيوم من العظم عند الحاجة (mobilization from bone).\n- يقلل فقد الكالسيوم من الكلى (renal calcium loss).\nفيتامين D steroid in nature (sterol) ويوجد أساساً في الحيوانات. يدعم توافر phosphate، ويدعم bone mineralization، ويقلل renal calcium loss.\nKey point: فيتامين D يحافظ على mineral balance؛ ونقصه يؤدي إلى defective bone mineralization.",
+   "ex": "فيتامين D زي منظم ميزان: يخلي الكالسيوم والفوسفات في الدم منتظمين، يفتح شفاط الكالسيوم من الأمعاء، يطلع كالسيوم من العظم لو الدم ناقص، ويقلل خروجه من الكلى. كل ده عشان العظم يت mineralized صح.",
+   "q": [
+    {
+     "q": "A main function of vitamin D is to regulate:",
+     "o": [
+      "Calcium and phosphorus levels in blood",
+      "Sodium and potassium levels in urine",
+      "Blood glucose",
+      "Iron absorption"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Vitamin D increases:",
+     "o": [
+      "Intestinal calcium absorption",
+      "Renal calcium loss",
+      "Urinary phosphate excretion",
+      "Bone resorption of phosphorus only"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Vitamin D decreases:",
+     "o": [
+      "Renal calcium loss",
+      "Intestinal calcium absorption",
+      "Bone mineralization",
+      "Phosphate availability"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Vitamin D is chemically:",
+     "o": [
+      "Steroid in nature (sterol)",
+      "Peptide hormone",
+      "Fatty acid",
+      "Nucleotide"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Deficiency of vitamin D leads to:",
+     "o": [
+      "Defective bone mineralization",
+      "Hypercalcaemia",
+      "Carotenemia",
+      "Night blindness"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 28,
+   "en": "Vitamin D: Toxicity and Absorption\n\nAbsorption:\n- Requires bile salts.\n- Mineral oils reduce absorption.\n\nResponse of low plasma calcium:\n↓ Plasma Ca++ → ↑ PTH → ↑ 1,25-di-OH-D3\n→ ↑ Mobilization of Ca from bone.\n→ ↑ Absorption of Ca from intestine.\n→ ↓ Renal excretion of Ca.\n→ ↑ Renal reabsorption of Ca.\nThe final result → ↑ Plasma Ca++.\n\nDeficiency:\n1. Rickets in children.\n2. Renal rickets (renal osteodystrophy).\n3. Decreased mineralization leads to osteomalacia in adults.\n\nHigh-dose toxicity:\n- Hypercalcaemia.\n- Calcium deposition in organs.\n- GI symptoms and polyuria.\n\nKEY POINT: Vitamin D excess can be harmful because it increases calcium absorption and mobilization.",
+   "ar": "فيتامين D: السمية والامتصاص.\nAbsorption: يحتاج bile salts؛ والزيوت المعدنية (mineral oils) تقلل الامتصاص.\nاستجابة انخفاض الكالسيوم بالدم: ↓ Plasma Ca++ → ↑ PTH → ↑ 1,25-di-OH-D3، وبعدين:\n→ ↑ تحرير Ca من العظم.\n→ ↑ امتصاص Ca من الأمعاء.\n→ ↓ إخراج Ca من الكلى.\n→ ↑ إعادة امتصاص Ca في الكلى.\nالنتيجة النهائية → ↑ Plasma Ca++.\n\nDeficiency:\n1) Rickets في الأطفال.\n2) Renal rickets (renal osteodystrophy).\n3) قلة mineralization تؤدي إلى osteomalacia في الكبار.\n\nHigh-dose toxicity:\n- Hypercalcaemia.\n- ترسيب الكالسيوم في الأعضاء (calcium deposition in organs).\n- أعراض GI و polyuria.\nKey point: زيادة فيتامين D مضرة لأنها تزيد امتصاص وتحرير الكالسيوم.",
+   "ex": "لما الكالسيوم ينزل، الجسم يرفع PTH وده يشغل فيتامين D النشط، وده يعمل 4 حركات: يسحب Ca من العظم، يزوده من الأمعاء، يقلل خروجه من الكلى، ويزود إعادة امتصاصه؛ النتيجة الكالسيوم يرجع. لكن لو فيتامين D زاد بزيادة: كالسيوم عالي وترسيب في الأعضاء.",
+   "q": [
+    {
+     "q": "Absorption of vitamin D requires:",
+     "o": [
+      "Bile salts",
+      "Intrinsic factor",
+      "Vitamin C",
+      "Calcium directly"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Mineral oils:",
+     "o": [
+      "Reduce vitamin D absorption",
+      "Enhance vitamin D absorption",
+      "Have no effect",
+      "Convert vitamin D to D2"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Low plasma calcium increases secretion of:",
+     "o": [
+      "PTH",
+      "Insulin",
+      "Calcitonin",
+      "Aldosterone"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Deficiency of vitamin D in children causes:",
+     "o": [
+      "Rickets",
+      "Osteomalacia",
+      "Hypercalcaemia",
+      "Carotenemia"
+     ],
+     "a": 0
+    },
+    {
+     "q": "High-dose vitamin D toxicity can cause:",
+     "o": [
+      "Hypercalcaemia and calcium deposition in organs",
+      "Night blindness",
+      "Xerophthalmia",
+      "Carotenemia"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 29,
+   "en": "Vitamin K: Chemistry and Function\nForms: K1 and K2 are natural; K3 (menadione) is synthetic.\nRole in clotting: 1- Required for γ-carboxylation of clotting-factor proteins (V, VII, IX and X) and prothrombin synthesis from liver. 3- CoQ plays a role in production of adenosine triphosphate (ATP).\nKEY POINT: Vitamin K supports production of functional clotting proteins.",
+   "ar": "فيتامين K: الكيمياء والوظيفة. الصور الطبيعية هي K1 وK2، أما K3 (menadione) فهي صناعية. دوره في التجلط: ضروري لعملية γ-carboxylation لبروتينات عوامل التجلط (V وVII وIX وX) وتصنيع prothrombin من الكبد. وكذلك CoQ له دور في إنتاج ATP. النقطة المهمة: فيتامين K يدعم إنتاج بروتينات تجلط فعالة.",
+   "ex": "تخيل عوامل التجلط زي جنود محتاجين سلاح يشتغل؛ فيتامين K هو اللي بيعمل التفعيل المهم (γ-carboxylation) في الكبد، ومن غيره الجرح ممكن يفضل ينزف.",
+   "q": [
+    {
+     "q": "Which forms of vitamin K are natural?",
+     "o": [
+      "K1 and K2",
+      "K3 (menadione)",
+      "K1 only",
+      "K2 only"
+     ],
+     "a": 0
+    },
+    {
+     "q": "K3 (menadione) is best described as which form of vitamin K?",
+     "o": [
+      "Natural K1",
+      "Natural K2",
+      "Synthetic",
+      "Active coenzyme"
+     ],
+     "a": 2
+    },
+    {
+     "q": "Vitamin K is required for γ-carboxylation of which clotting-factor proteins?",
+     "o": [
+      "I, II, III and IV",
+      "V, VII, IX and X",
+      "VIII and von Willebrand factor",
+      "XI, XII, XIII and fibrinogen"
+     ],
+     "a": 1
+    },
+    {
+     "q": "Prothrombin synthesis, according to the slide, occurs from which organ?",
+     "o": [
+      "Liver",
+      "Kidney",
+      "Spleen",
+      "Bone marrow"
+     ],
+     "a": 0
+    },
+    {
+     "q": "The slide states that CoQ plays a role in production of which molecule?",
+     "o": [
+      "ATP",
+      "DNA",
+      "Bile salts",
+      "Vitamin K"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 30,
+   "en": "Vitamin K: Deficiency and Clinical Link\nWhy deficiency may occur: Reduced intestinal bacterial production; Poor nutrition; Newborns have sterile intestines.\nResult: Hypoprothrombinemia; Bleeding tendency.\nKEY POINT: Vitamin K deficiency impairs clotting-factor maturation and can cause bleeding.",
+   "ar": "نقص فيتامين K وأثره الإكليني: ممكن يحصل نقص بسبب قلة إنتاج البكتيريا المعوية، سوء التغذية، أو عند حديثي الولادة لأن أمعاءهم sterile. النتيجة: hypoprothrombinemia وميل للنزيف. النقطة المهمة: نقص فيتامين K يخل بعملية maturation لعوامل التجلط وقد يسبب نزيف.",
+   "ex": "زي مصنع تجلط في الكبد؛ لو فيتامين K قليل، العمال (عوامل التجلط) ما يوصلوش لشكلهم النهائي، فالدم يبقى سائل وما يتجلطش بسرعة.",
+   "q": [
+    {
+     "q": "Which cause of vitamin K deficiency is listed on the slide?",
+     "o": [
+      "Reduced intestinal bacterial production",
+      "Excess sunlight exposure",
+      "High vitamin C intake",
+      "Increased renal excretion of calcium"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Why are newborns especially at risk for vitamin K deficiency?",
+     "o": [
+      "They have sterile intestines",
+      "They have high intestinal bacteria",
+      "They absorb too much vitamin K",
+      "They produce excess prothrombin"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Which laboratory result is listed for vitamin K deficiency?",
+     "o": [
+      "Hypoprothrombinemia",
+      "Hypercalcemia",
+      "Hyperglycemia",
+      "Polycythemia"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Which clinical result is listed for vitamin K deficiency?",
+     "o": [
+      "Bleeding tendency",
+      "Night blindness",
+      "Rickets",
+      "Hemolysis only"
+     ],
+     "a": 0
+    },
+    {
+     "q": "According to the key point, vitamin K deficiency impairs what?",
+     "o": [
+      "Clotting-factor maturation",
+      "Calcium absorption",
+      "Rhodopsin synthesis",
+      "Collagen cross-linking"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 31,
+   "en": "Vitamin E: Tocopherols\nChemistry: Vit E consists of 8 naturally occurring tocopherols (α, β, γ and δ), of which α-tocopherol is the most active.\nAntioxidant function: Protects membrane components and polyunsaturated fatty acids from oxidation; protect against the development of heart attack.\nKEY POINT: Vitamin E is a lipid-phase antioxidant protecting membranes from oxidative damage.",
+   "ar": "فيتامين E: التوكوفيرولات. يتكون من 8 tocopherols طبيعية (α وβ وγ وδ)، وأكثرها نشاطًا α-tocopherol. وظيفته كمضاد أكسدة: يحمي مكونات الغشاء والـ polyunsaturated fatty acids من الأكسدة، وقد يحمي من حدوث heart attack. النقطة المهمة: فيتامين E مضاد أكسدة في الطور الدهني يحمي الأغشية من oxidative damage.",
+   "ex": "تخيل أغشية الخلايا زي زيت في مقلاة؛ فيتامين E بمثابة مضاد صدأ يمنع الأكسجين والشوارد الحرة إنها تخرب الزيت ده.",
+   "q": [
+    {
+     "q": "How many naturally occurring tocopherols make up vitamin E?",
+     "o": [
+      "2",
+      "4",
+      "8",
+      "12"
+     ],
+     "a": 2
+    },
+    {
+     "q": "Which tocopherol is the most active?",
+     "o": [
+      "α-tocopherol",
+      "β-tocopherol",
+      "γ-tocopherol",
+      "δ-tocopherol"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Vitamin E protects membrane components and which fatty acids from oxidation?",
+     "o": [
+      "Polyunsaturated fatty acids",
+      "Saturated fatty acids",
+      "Short-chain fatty acids",
+      "Ketone bodies"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Vitamin E may protect against the development of which condition?",
+     "o": [
+      "Heart attack",
+      "Rickets",
+      "Night blindness",
+      "Bleeding tendency"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Vitamin E is best described as which type of antioxidant?",
+     "o": [
+      "Lipid-phase antioxidant",
+      "Water-phase antioxidant",
+      "Metal ion",
+      "Clotting factor"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 32,
+   "en": "Vitamin E: Deficiency and Clinical Context\nDeficiency findings: Erythrocytes become sensitive to peroxide; Abnormal cellular membranes; Maturation arrest may lead to anemia.\nRemember: Vitamin E prevents non-enzymatic oxidation by oxygen and free radicals.\nKEY POINT: Vitamin E’s central concept is antioxidant protection of lipid-rich cellular structures.",
+   "ar": "نقص فيتامين E والسياق الإكليني: النتائج تشمل أن كرات الدم الحمراء تبقى حساسة للـ peroxide، وأغشية الخلايا تبقى غير طبيعية، وقد يحصل maturation arrest يؤدي إلى anemia. تذكر: فيتامين E يمنع non-enzymatic oxidation بواسطة الأكسجين والـ free radicals. النقطة المهمة: الفكرة الأساسية له هي حماية التركيبات الخلوية الغنية بالدهون كمضاد أكسدة.",
+   "ex": "لو مفيش فيتامين E، أغشية كرات الدم الحمراء تبقى ضعيفة زي بالونة قديمة وتتقطع بسرعة، فيحصل تكسير وأنيميا.",
+   "q": [
+    {
+     "q": "In vitamin E deficiency, erythrocytes become sensitive to what?",
+     "o": [
+      "Peroxide",
+      "Calcium",
+      "Glucose",
+      "Vitamin K"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Which deficiency finding is listed for vitamin E?",
+     "o": [
+      "Abnormal cellular membranes",
+      "Increased clotting factors",
+      "Excess rhodopsin",
+      "Renal stones"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Maturation arrest in vitamin E deficiency may lead to which condition?",
+     "o": [
+      "Anemia",
+      "Rickets",
+      "Night blindness",
+      "Hypoprothrombinemia"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Vitamin E prevents non-enzymatic oxidation by oxygen and what else?",
+     "o": [
+      "Free radicals",
+      "Clotting factors",
+      "Calcium ions",
+      "Bile salts"
+     ],
+     "a": 0
+    },
+    {
+     "q": "What is the central concept of vitamin E?",
+     "o": [
+      "Antioxidant protection of lipid-rich cellular structures",
+      "Calcium-phosphate homeostasis",
+      "Clotting-factor maturation",
+      "Iron absorption"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 33,
+   "en": "High-Yield Summary\nVitamins are dietary organic compounds with catalytic/metabolic roles.\nWater-soluble group: vitamin C, B-complex and listed related compounds.\nFat-soluble group: A, D, E and K.\nVitamin C: reducing agent, collagen and iron absorption.\nVitamin D: calcium/phosphate homeostasis and bone mineralization.\nVitamin K: clotting-factor maturation.\nVitamin E: antioxidant protection.\nVitamin A: vision and epithelial integrity.\nKEY POINT: Study each vitamin using the same pattern: chemistry → function → deficiency → toxicity/clinical relevance.",
+   "ar": "ملخص عالي الأهمية: الفيتامينات مركبات عضوية غذائية لها أدوار catalytic/metabolic. المجموعة الذائبة في الماء: فيتامين C وB-complex والمركبات المرتبطة المذكورة. المجموعة الذائبة في الدهون: A وD وE وK. فيتامين C: عامل مختزل، مهم للكولاجين وامتصاص الحديد. فيتامين D: توازن الكالسيوم/الفوسفات وتمعدن العظم. فيتامين K: maturation لعوامل التجلط. فيتامين E: حماية مضادة للأكسدة. فيتامين A: الرؤية وسلامة الأنسجة الطلائية. النقطة المهمة: ذاكر كل فيتامين بنفس الترتيب: chemistry ثم function ثم deficiency ثم toxicity/clinical relevance.",
+   "ex": "اعمل لكل فيتامين كارت زي كارت اللعيبة: كيميائيته، وظيفته، لو نقص يحصل إيه، ولو زاد أو أثره الإكليني إيه.",
+   "q": [
+    {
+     "q": "Vitamins are dietary organic compounds with what kind of roles?",
+     "o": [
+      "Catalytic/metabolic roles",
+      "Structural bone roles only",
+      "Hormonal roles only",
+      "No biological roles"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Which group includes vitamin C, B-complex and listed related compounds?",
+     "o": [
+      "Water-soluble group",
+      "Fat-soluble group",
+      "Clotting-factor group",
+      "Tocopherol group"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Which vitamins make up the fat-soluble group?",
+     "o": [
+      "A, D, E and K",
+      "C and B-complex only",
+      "A, C, E and K",
+      "B1, B2, B3 and B6"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Vitamin K is linked to which function?",
+     "o": [
+      "Clotting-factor maturation",
+      "Calcium/phosphate homeostasis",
+      "Rhodopsin synthesis",
+      "Iron absorption"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Vitamin E is linked to which function?",
+     "o": [
+      "Antioxidant protection",
+      "Collagen synthesis",
+      "Prothrombin synthesis",
+      "Epithelial integrity"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 34,
+   "en": "Quick Review Questions\n1. How are vitamins classified?\n2. What makes vitamin C a reducing agent?\n3. Which vitamin is linked to rhodopsin?\n4. What is the active form of vitamin D?\n5. Why is vitamin K important for clotting?\n6. What is the main biochemical role of vitamin E?",
+   "ar": "أسئلة مراجعة سريعة: كيف تُصنف الفيتامينات؟ ما الذي يجعل فيتامين C عاملًا مختزلًا؟ أي فيتامين مرتبط بالـ rhodopsin؟ ما هو الشكل النشط لفيتامين D؟ لماذا فيتامين K مهم للتجلط؟ ما الدور البيوكيميائي الرئيسي لفيتامين E؟",
+   "ex": "دي أسئلة تأكيد سريعة بعد المذاكرة؛ جاوبها من غير ما تبص على الملخص عشان تعرف إذا المعلومات ثبتت.",
+   "q": [
+    {
+     "q": "How are vitamins classified?",
+     "o": [
+      "Water-soluble and fat-soluble",
+      "Acidic and basic",
+      "Natural and synthetic only",
+      "Clotting and non-clotting"
+     ],
+     "a": 0
+    },
+    {
+     "q": "According to the High-Yield Summary, vitamin C acts as what?",
+     "o": [
+      "Reducing agent",
+      "Clotting factor",
+      "Hormone",
+      "Tocopherol"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Which vitamin is linked to vision and epithelial integrity, and is related to the rhodopsin review question?",
+     "o": [
+      "Vitamin A",
+      "Vitamin D",
+      "Vitamin E",
+      "Vitamin K"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Why is vitamin K important for clotting?",
+     "o": [
+      "It supports clotting-factor maturation",
+      "It absorbs calcium from bone",
+      "It protects membranes from peroxide",
+      "It is a reducing agent for collagen"
+     ],
+     "a": 0
+    },
+    {
+     "q": "What is the main biochemical role of vitamin E?",
+     "o": [
+      "Antioxidant protection",
+      "Prothrombin synthesis",
+      "Calcium mineralization",
+      "Iron absorption"
+     ],
+     "a": 0
+    }
+   ]
+  }
+ ],
+ "high_risk": [
+  {
+   "t": "Biochemistry 1",
+   "idea": "دي محاضرة رقم 3 في مادة Biochemistry 1، عنوانها Vitamins. المحاضرة مقدمة من Dr. Hanan Hafila، أستاذ مشارك في Biochemistry بكلية الصيدلة، جامعة Delta University for Science and Technology.",
+   "why": "نقطة أساسية/متكررة في محتوى الفيتامينات",
+   "page": "1",
+   "alt": "قد تأتي كسؤال تعريف أو مقارنة أو وظيفة"
+  },
+  {
+   "t": "BIOCHEMISTRY 1 C",
+   "idea": "صفحة عنوان بتقول إن الفيتامينات منهم Water-soluble ومنهم Fat-soluble. وظهرت حروف A, E, D, K, B كرموز/أمثلة للفيتامينات.",
+   "why": "نقطة أساسية/متكررة في محتوى الفيتامينات",
+   "page": "2",
+   "alt": "قد تأتي كسؤال تعريف أو مقارنة أو وظيفة"
+  },
+  {
+   "t": "Learning Outcomes 01",
+   "idea": "الأهداف التعليمية: الطالب يقدر يصنف الفيتامينات حسب الذوبان، يتعرف على التركيب، يربطها بالوظائف البيوكيميائية، يعرف علامات النقص الكلاسيكية، ويطبق ده في ممارسة الصيدلة. ترتيب الدراسة: Structure ثم Fun",
+   "why": "نقطة أساسية/متكررة في محتوى الفيتامينات",
+   "page": "3",
+   "alt": "قد تأتي كسؤال تعريف أو مقارنة أو وظيفة"
+  },
+  {
+   "t": "What Are Vitamins? 01",
+   "idea": "الفيتامينات موجودة في الأكل العادي بتركيزات صغيرة، مش بتدخل في تكوين الأنسجة الأساسية، وبتشتغل كـ catalysts في تفاعلات كتير، ولازم تتاخد من الغذاء. بتتقسم حسب الذوبان إلى Water-soluble و Fat-soluble. ",
+   "why": "نقطة أساسية/متكررة في محتوى الفيتامينات",
+   "page": "4",
+   "alt": "قد تأتي كسؤال تعريف أو مقارنة أو وظيفة"
+  },
+  {
+   "t": "Vitamin Classification Map 02",
+   "idea": "خريطة تصنيف الفيتامينات: Water-soluble تشمل Vitamin C و B-complex و lipoic acid و inositol و choline. أما Fat-soluble فهي Vitamins A, D, E and K. التصنيف الأول حسب Solubility، وبعدين حسب كيمياء ووظيفة",
+   "why": "نقطة أساسية/متكررة في محتوى الفيتامينات",
+   "page": "5",
+   "alt": "قد تأتي كسؤال تعريف أو مقارنة أو وظيفة"
+  },
+  {
+   "t": "Water-Soluble Vitamins: The Group 03",
+   "idea": "المجموعة Water-soluble تشمل: Vitamin C / Ascorbic acid، و B-complex وهم B1 Thiamine، B2 Riboflavin، B3 Niacin، B5 Pantothenic acid، B6 Pyridoxine / PLP، B7 Biotin، B9 Folic acid / Folinic acid، B12 Cy",
+   "why": "نقطة أساسية/متكررة في محتوى الفيتامينات",
+   "page": "6",
+   "alt": "قد تأتي كسؤال تعريف أو مقارنة أو وظيفة"
+  },
+  {
+   "t": "Vitamin C: Chemistry of L-Ascorbic Acid 04",
+   "idea": "كيمياء Vitamin C (L-Ascorbic acid): عنده تركيب Endiol-lactone، رابطة مزدوجة بين C2 و C3، مجموعتي –OH، حلقة Lactone من C1–C4، وكربونين غير متماثلين C4 و C5. بالنسبة للأكسدة والاختزال: هو Strong reducin",
+   "why": "نقطة أساسية/متكررة في محتوى الفيتامينات",
+   "page": "7",
+   "alt": "قد تأتي كسؤال تعريف أو مقارنة أو وظيفة"
+  },
+  {
+   "t": "Vitamin C: Major Functions",
+   "idea": "فيتامين C له وظائف حيوية مهمة: يساعد في تكوين الكولاجين (collagen) والتئام الجروح، ويساعد تحويل البرولين (proline) إلى هيدروكسي برولين (hydroxyproline)، ويدعم الخلايا البانية للعظم (osteoblasts) والخل",
+   "why": "نقطة أساسية/متكررة في محتوى الفيتامينات",
+   "page": "8",
+   "alt": "قد تأتي كسؤال تعريف أو مقارنة أو وظيفة"
+  },
+  {
+   "t": "B-Complex: Overview",
+   "idea": "فيتامينات B-complex هي مجموعة من الجزيئات المختلفة وليست فيتامين واحد. الأعضاء: B1 ثيامين (Thiamine)، B2 ريبوفلافين (Riboflavin)، B3 نياسين (Niacin)، B5 بانتوثينيك أسيد (Pantothenic acid)، B6 بيريدوكس",
+   "why": "نقطة أساسية/متكررة في محتوى الفيتامينات",
+   "page": "9",
+   "alt": "قد تأتي كسؤال تعريف أو مقارنة أو وظيفة"
+  },
+  {
+   "t": "Vitamin B1: Thiamine",
+   "idea": "فيتامين B1 (Thiamine) تركيبه من حلقة pyrimidine وحلقة thiazole. صورته النشطة كإنزيم مساعد هي TPP.\nنقصه يسبب:\n- Beri-Beri عند الرضع: تسارع قلب (tachycardia)، قيء، تشنجات، ولو لم يعالج قد يؤدي للوفاة.\n-",
+   "why": "نقطة أساسية/متكررة في محتوى الفيتامينات",
+   "page": "10",
+   "alt": "قد تأتي كسؤال تعريف أو مقارنة أو وظيفة"
+  }
+ ],
+ "must_know": [],
+ "dont_confuse": [],
+ "one_min": ""
+}
